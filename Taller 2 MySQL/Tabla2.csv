@@ -1,0 +1,4 @@
+idEmpleado,NombreCompleto,Correo,Telefono,FechaNacimiento,FechaContratacion,idDepartamento,idCargo
+1,"Carlos Ruiz",carlos@example.com,3001111111,1990-05-10,2020-01-01,1,2
+2,"María López",maria@example.com,3002222222,1992-03-12,2021-02-10,1,1
+10,"Karen Molina",karen@example.com,3101111111,1996-10-05,2023-01-10,1,12
